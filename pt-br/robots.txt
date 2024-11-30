@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://george-gca.github.io/multi-language-al-folio/sitemap.xml
+Sitemap: https://codexmonk.github.io/cxm-notes-al-folio-multi-language//sitemap.xml
